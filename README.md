@@ -19,11 +19,11 @@ npm install
 npm start
 Screenshots
 
- Login Page
-![Login Screenshot](screenshots/Screenshot (19).png)
+Login Page
+[Login Screenshot](screenshots/Screenshot (19).png)
 
-### 📊 Dashboard
-![Dashboard Screenshot](screenshots/Screenshot (22).png)
+Dashboard
+[Dashboard Screenshot](screenshots/Screenshot (22).png)
+Leaderboard
+[Leaderboard Screenshot](screenshots/Screenshot (20).png)
 
-### 🏆 Leaderboard
-![Leaderboard Screenshot](screenshots/Screenshot (20).png)
